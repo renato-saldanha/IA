@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d04da5ee-1e95-463b-8fbf-2b54b984280d",
+    "name": "Camiseta",
+    "price": 49.9,
+    "stock": 10,
+    "description": "Camiseta 100% algodão"
+  },
+  {
+    "id": "bb9be41a-49d7-4485-a866-241340338c86",
+    "name": "Sapato Preto",
+    "price": 109.9,
+    "stock": 22,
+    "description": "Sapato preto de couro legítimo"
+  }
+]

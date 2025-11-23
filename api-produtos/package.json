@@ -1,0 +1,22 @@
+{
+  "name": "api-produtos",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de produtos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Renato Saldanha",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.3.1",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
